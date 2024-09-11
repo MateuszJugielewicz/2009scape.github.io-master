@@ -1,22 +1,22 @@
 ---
-title: About 2009scape
+title: About MZscape
 tags: game_guide
 layout: guide
 ---
 
 Every website should have an about section and while this is pretty straight forward of an idea of what we are about we will go into detail about what are future goals are and our past that got us to this point.
 
-### What is 2009scape?
+### What is MZscape?
 
-2009scape is an unofficial remake of the 2009 era of RS that is usually forgotten.
+MZscape is an unofficial remake of the 2009 era of RS that is usually forgotten.
 We are aiming towards a full remake of 100% completion which let people relive the RS2HD days once again.
 A non profit group that is trying something different in the open source community.
 In the past we have dealt with people both trying to sell the source or exploit bugs in the code for gains in the game.
 The last mass ban of these exploiters took over 100 million out of the economy. However, with this happening our core is open source while our content is closed source. 
 
-### History of 2009scape
+### History of MZscape
 
-The 2009Scape you see today has gone through a magnitude of changes.
+The MZscape you see today has gone through a magnitude of changes.
 Originally starting its life as Arios498, this server saw a lot of people playing it daily, unfortunately, it was for profit and closed source.
 It was later upgraded to Arios530, targeting the build 530 of runescape with content in and around January 1st, 2009.
 Development came to a halt when a developer of the closed source project released the source code.
@@ -26,7 +26,7 @@ This project was started out of love for the 530 revision.
 A small group of developers spent hundreds of hours improving on the existing source that was left to the curb.
 Over the past year, this project has seen many developers coming and going, fixing bugs that they find either through their own server, or bugs that they find in the live game that is currently hosted.
 
-### 2009scape as of 2021
+### MZscape as of 2021
 
 As of June 2021, we have decided to split the two games entirely between Legacy and Preservation.
 Legacy is the base we had started on and was at one point known as World 2.

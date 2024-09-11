@@ -91,7 +91,7 @@ Fixed Varrock earth tiara easy diary task
 - Fixed wilderness zoning near KBD lever
 - Updated README.md with working link to Thanos tool + java 11 reminder
 - Deleted obsolete GE tool
-- Charlie now says 2009Scape in The Grand Tree
+- Charlie now says MZscape in The Grand Tree
 - Corrected moss giant drop table
 - Corrected fire giant drop table
 - Fixed fishing trawler teleport and random event issues

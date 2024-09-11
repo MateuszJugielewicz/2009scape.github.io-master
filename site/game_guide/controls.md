@@ -29,4 +29,4 @@ To rotate your camera, just use the arrow keys or hold down the scroll button an
 
 You can access the different options by clicking on the pouch.
 
-![](/site/2009scape-resources/img/game_guide/controls/deposit-to.webp){:width="500" height="400"}
+![](/site/MZscape-resources/img/game_guide/controls/deposit-to.webp){:width="500" height="400"}

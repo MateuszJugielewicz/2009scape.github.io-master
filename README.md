@@ -6,9 +6,9 @@ Note: This is a haphazard hack of a 2009 website made by [jarryd229](https://git
 
 Want to help? No problem! `index.html` is where it all starts :)
 
-Something seem broken (missing images?) - Get the original, unedited copy. Things could have broken in the past: https://github.com/2009scape/Dumps/tree/master/2010%20Website%20Dump
+Something seem broken (missing images?) - Get the original, unedited copy. Things could have broken in the past: https://github.com/MZscape/Dumps/tree/master/2010%20Website%20Dump
 
-View the website live here: https://2009scape.github.io/
+View the website live here: https://MZscape.github.io/
 
 # Building Jekyll Locally
 This website utilizes Jekyll to generate static pages. 

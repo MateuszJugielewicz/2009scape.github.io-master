@@ -23,7 +23,7 @@ All information we store and how it is used will be listed below.
 
 ## Who has access to this stored data?
 
-Only select members of 2009Scape staff have access to the data.
+Only select members of MZscape staff have access to the data.
 Currently, this includes ryannathans and Ceikry.
 
 ## What if I dont want this information stored?

@@ -23,7 +23,7 @@ Taken from the [latest Jagex Launcher on Linux](https://help.jagex.com/hc/en-gb/
 Right..
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/jagex_launcher_linux/enhancedSecurity.png"
+  url="/site/MZscape-resources/img/community/jagex_launcher_linux/enhancedSecurity.png"
   style="style='border: solid 4px seashell' width='25%'"
   description="In the name of security, users are instructed to go to a random Github page and download a workaround for the new, Jagex controlled launcher"
 %}
@@ -48,11 +48,11 @@ Right..
   
 - What's the real reason for the launcher?
   
-  It likely has to do with them reducing risk by removing power from the community, as they're <a href="https://forum.2009scape.org/viewtopic.php? p=3080-jagex-being-sold-again-2023#p3080">trying to be sold</a> again.
+  It likely has to do with them reducing risk by removing power from the community, as they're <a href="https://forum.MZscape.org/viewtopic.php? p=3080-jagex-being-sold-again-2023#p3080">trying to be sold</a> again.
   
 - Does the Jagex Launcher stop bots?
   
-  Given bot clients are compatible with the launcher, and <a href="https://forum.2009scape.org/viewtopic.php?p=3092-jagex-being-sold-again-2023#p3092">overwhelming evidence</a> that Jagex doesn't care about bots, the answer is no.
+  Given bot clients are compatible with the launcher, and <a href="https://forum.MZscape.org/viewtopic.php?p=3092-jagex-being-sold-again-2023#p3092">overwhelming evidence</a> that Jagex doesn't care about bots, the answer is no.
 
 With the launcher being optional, some people say it's not a big deal. They would be
 correct, until you log out - at which point you get a free conversion!
@@ -60,7 +60,7 @@ correct, until you log out - at which point you get a free conversion!
 **Don't Log Out**
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/jagex_launcher_linux/dontLogOut.png"
+  url="/site/MZscape-resources/img/community/jagex_launcher_linux/dontLogOut.png"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -69,7 +69,7 @@ correct, until you log out - at which point you get a free conversion!
 Despite Andrew Gower running the original Runescape servers on Linux, despite Java being designed for cross-architecture compatibility, despite 21 years of Runescape being playable on Linux and *BSDs, Jagex has finally pulled support for non-Windows and MacOS operating systems.
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/jagex_launcher_linux/gowerLinuxLauncher.png"
+  url="/site/MZscape-resources/img/community/jagex_launcher_linux/gowerLinuxLauncher.png"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -80,7 +80,7 @@ Crazy what proper motives can do!
 
 Jagex has continuously blundered their way through hosting Runescape, and the community has saved it each time.
 While we are disappointed in Jagex's decision, we understand how profit driven companies work.
-The 2009scape team is grateful for the community that provides Linux support natively to people who want to play Runescape.
+The MZscape team is grateful for the community that provides Linux support natively to people who want to play Runescape.
 In particular, we would like to give a shoutout to the following projects:
 
 - [OpenRSC](https://rsc.vet/) - 2001 & 2003 remake - Native Linux + Flatpak support
@@ -88,4 +88,4 @@ In particular, we would like to give a shoutout to the following projects:
 - [2011scape](http://2011scape.com/) - 2011 remake - Native Linux support
 - [Darkan](http://darkan.org/) - 2012 remake - Native Linux + Snap support
 
-Discuss this on the [forums](https://forum.2009scape.org/viewtopic.php?p=3309-jagex-launcher-on-linux#p3309)
+Discuss this on the [forums](https://forum.MZscape.org/viewtopic.php?p=3309-jagex-launcher-on-linux#p3309)

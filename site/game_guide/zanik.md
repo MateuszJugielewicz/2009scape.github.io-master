@@ -9,7 +9,7 @@ layout: guide
 </div>
 
 Meet **Zanik**, our beloved discord bot written by *Ceikry* in Rust.
-The bot isn't to replace the 2009scape bot but to add even more functionality to the discord! With **Zanik**, you are able to use a few commands that will liven up your experience within discord and even more will be added in time.
+The bot isn't to replace the MZscape bot but to add even more functionality to the discord! With **Zanik**, you are able to use a few commands that will liven up your experience within discord and even more will be added in time.
 
 
 ### Normal Discord member commands
@@ -32,7 +32,7 @@ This is an insider for our previous host, woahscam. You can find more about him 
 Make sure to keep updated with this new bot to make sure you're taking advantage of any new features that are released for it.
 I'm sure more will come.
 
-Ever since the removal of the 2009scape discord bot, Zanik has been ignoring the asterisk commands and started listening to users who use the colons. 
+Ever since the removal of the MZscape discord bot, Zanik has been ignoring the asterisk commands and started listening to users who use the colons. 
 Also as of May of 2022, Zanik no longer responds to the kickme command.
 
 {% include further-help.html %}

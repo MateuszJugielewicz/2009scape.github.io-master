@@ -16,7 +16,7 @@ Then more maps started taking off and more artists began to join in with him.
 Famous Youtubers like SoupRS had made videos about these maps and I thought that everyone in the 09 community could appreciate it since these guys have gone out your way to not bring the game to you but bring you into the game! 
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/lumbyfullmap.webp"
+  url="/site/MZscape-resources/img/community/RsVR/lumbyfullmap.webp"
   style="style='border: solid 4px seashell' width='650' height='350'"
 %}
 
@@ -28,7 +28,7 @@ Taking a stroll around lumbridge in vr is surreal that you may never want to lea
 **The Beautiful Varrock Map**
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/varrock.webp"
+  url="/site/MZscape-resources/img/community/RsVR/varrock.webp"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -47,7 +47,7 @@ You can find the link by clicking on this [link](https://www.nexusmods.com/blade
 **The Beautiful Lumbridge Map**
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/lumbridge.webp"
+  url="/site/MZscape-resources/img/community/RsVR/lumbridge.webp"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -69,7 +69,7 @@ You can find the link by clicking on this [link](https://www.nexusmods.com/blade
 **The Beautiful Falador Map**
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/falador.webp"
+  url="/site/MZscape-resources/img/community/RsVR/falador.webp"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -91,7 +91,7 @@ After these mods were released Connor and his team moved on to work with getting
 Concepts of this are being programmed/made towards the full map so far!
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/poorvarrock.webp"
+  url="/site/MZscape-resources/img/community/RsVR/poorvarrock.webp"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
@@ -99,22 +99,22 @@ Also one of his assistant artist as well, started working on a map for barbarian
 While there are no photos of what the map will look like completely there is a snow filled version of this map that they had started 
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/barb.webp"
+  url="/site/MZscape-resources/img/community/RsVR/barb.webp"
   style="style='border: solid 4px seashell' width='100%'"
 %}
 
 ### Current Project
 
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/draynor.webp"
+  url="/site/MZscape-resources/img/community/RsVR/draynor.webp"
   style="style='border: solid 4px seashell' width='100%' height='350'"
 %}
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/port-sarim.webp"
+  url="/site/MZscape-resources/img/community/RsVR/port-sarim.webp"
   style="style='border: solid 4px seashell' width='100%' height='350'"
 %}
 {% include image.html
-  url="/site/2009scape-resources/img/community/RsVR/cooking.gif"
+  url="/site/MZscape-resources/img/community/RsVR/cooking.gif"
   style="style='border: solid 4px seashell' width='100%' height='350'"
 %}
 
@@ -124,7 +124,7 @@ different things like Draynor & Port Sarim ( model-wise ) and skills ( code-wise
 We have made it to the end of this long thread but I am so glad I was able to share this amazing project with you.
 If you're a modeler, I believe you can join their Discord and offer to help with any of the projects or just jump in and tell them that you're grateful this exists. 
 
-You can find the link to their Discord clicking the icon <a href="https://discord.gg/wDHCStbD"><img height="20" src="/site/2009scape-resources/img/icons/brand-discord.svg" width="20"/></a>!
+You can find the link to their Discord clicking the icon <a href="https://discord.gg/wDHCStbD"><img height="20" src="/site/MZscape-resources/img/icons/brand-discord.svg" width="20"/></a>!
 
 #### Meet their Team!
 

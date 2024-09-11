@@ -7,7 +7,7 @@ layout: guide
   <span class="headertitleleft"><span class="headertitleright">Introduction</span></span>
 </div>
 
-In 2023, 2009scape adapted to the Experimental Client as the main client.
+In 2023, MZscape adapted to the Experimental Client as the main client.
 This client can be access by either cloning it from Github or directly through the Saradomin Launcher.
 Unlike the client before it, this client is an authentic client.
 In order to gain access to things that were originally part of the old client, you will need to install plugins.
@@ -75,15 +75,15 @@ A debug utility for visualizing the component numbers for open interfaces.
 
 Step 1: Launch your Saradomin launcher. You will see menu that looks like this: 
 
-![](/site/2009scape-resources/img/game_guide/client-configs/plugins.png){:width="300" height="300"}
+![](/site/MZscape-resources/img/game_guide/client-configs/plugins.png){:width="300" height="300"}
 
 It shows the plugins you have installed and the ones available to install.
 Once you have a few plugins installed, your screen should look like this: 
 
-![](/site/2009scape-resources/img/game_guide/client-configs/installedPlugins.png){:width="300" height="300"}
+![](/site/MZscape-resources/img/game_guide/client-configs/installedPlugins.png){:width="300" height="300"}
 
 <div class="headings">
   <span class="headertitleleft"><span class="headertitleright">Singleplayer Installation</span></span>
 </div>
 
- I believe the goal is to hook it up the same way the live server does, but for now, check out this repo for installation: [Guide](https://gitlab.com/2009scape/tools/client-plugins).
+ I believe the goal is to hook it up the same way the live server does, but for now, check out this repo for installation: [Guide](https://gitlab.com/MZscape/tools/client-plugins).

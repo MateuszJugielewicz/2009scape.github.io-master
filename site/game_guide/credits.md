@@ -12,7 +12,7 @@ Our Credit system is our reward system for contributing towards the project in v
 You must not confuse it with a donation system that another server may have.
 It's our way of saying thank you for your contributions and an incentive to continue by turning them into a currency to buy the holiday rares that everyone loves.
 
-![](/site/2009scape-resources/img/game_guide/menu.webp){:width="500" height="300"}
+![](/site/MZscape-resources/img/game_guide/menu.webp){:width="500" height="300"}
 
 ### Testing Content
 
@@ -20,7 +20,7 @@ With our new test server, we are able to test content on a server to make sure b
 We can but do not want to do this alone and would love the help! But don't worry, there is something in it for you.
 Credits!
 Keep in mind that credits will only be awarded to people who thoroughly test the content and provide detailed reports on them.
-You must claim credits for your testing efforts on [this forum thread](https://forum.2009scape.org/viewtopic.php?t=192-credits-claim).
+You must claim credits for your testing efforts on [this forum thread](https://forum.MZscape.org/viewtopic.php?t=192-credits-claim).
 
 If you test smaller things like bug fixes there is a 2 credit reward.
 If you test full quests or minigames you will be rewarded 5 credits. 
@@ -37,7 +37,7 @@ Check out our Thanos Tool in order to get started.
 It's a fill-in-the-blank tool that does just that.
 Make sure that the Information is authentic to the 2009 era.
 
-Click on the [Thanos Tool(https://gitlab.com/2009scape/tools/rs09-thanos-tool) to be redirected to the Gitlab page.
+Click on the [Thanos Tool(https://gitlab.com/MZscape/tools/rs09-thanos-tool) to be redirected to the Gitlab page.
 
 ### Quest Dialogue
 
@@ -50,11 +50,11 @@ If you are a Matrix user, you can check with the [Dev Channel](https://matrix.to
 
 ### Hall of Fame
 
-2009scape is a free to play game allowing players to take their time leveling their player's stats.
+MZscape is a free to play game allowing players to take their time leveling their player's stats.
 What is the fun of multiplayer if there isn't a little bit of competition?
 Hall of fame or HoF for short, is a contest to see who will reach the first to a 99 in a skill.
 There is no reason to panic, there is a HoF for every xp rate and ironman status.
-In order to claim a HoF spot, you must post inside of [this forum thread](https://forum.2009scape.org/viewtopic.php?t=192-credits-claim).
+In order to claim a HoF spot, you must post inside of [this forum thread](https://forum.MZscape.org/viewtopic.php?t=192-credits-claim).
 
 **The first to claim the 99 in the following categories is the one who receives the credits and fame.**
 
@@ -76,14 +76,14 @@ It must be approved in order to get credits.
 ### Voting
 
 Voting is no longer a valid method for obtaining credits since July 2022.
-To quote the admin of 2009scape server from 2009scape Discord announcement:
+To quote the admin of MZscape server from MZscape Discord announcement:
 
 > "We as a collective team came to the conclusion of disabling voting altogether.
 > It hardly pulls in new users and is just a tedious system when not kept up with. 
-> [...] Rares hold a lot of value for contributing and we really need more testers for 2009scape.
+> [...] Rares hold a lot of value for contributing and we really need more testers for MZscape.
 > The test server is a click away and all you have to do is test new content and write a report on what you've found during your testing and you get 5 credits.
 > We have new content to test all the time, so there's an incentive for both devs and players to make more MRs and test them to get them pushed."
 
-Having said that, it's worth remembering that testing and data contributions are not only the best ways to earn credits, they are much needed by the 2009scape project to bring it closer to the authentic archive of the golden era of Runescape.
+Having said that, it's worth remembering that testing and data contributions are not only the best ways to earn credits, they are much needed by the MZscape project to bring it closer to the authentic archive of the golden era of Runescape.
 
 {% include further-help.html %}

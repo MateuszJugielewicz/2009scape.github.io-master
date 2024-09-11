@@ -146,7 +146,7 @@ Vue.createApp({
   created() {
     // Proxy is used because GitLAB has CORS restrictions while GitHUB doesn't.
     // this is refreshed every 15 minutes. If it's out of sync ping @downthecrop
-    const PROXY = "https://downthecrop.github.io/2009scape-mirror/Server/data/configs/";
+    const PROXY = "https://downthecrop.github.io/MZscape-mirror/Server/data/configs/";
 
     const fetchData = async (url) => {
       const response = await fetch(PROXY + url);

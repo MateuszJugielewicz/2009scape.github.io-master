@@ -26,19 +26,19 @@ layout: guide
 
 ### The Admins
 
-Key members of 2009scape.
+Key members of MZscape.
 Either have been around the longest or they have gained a per say for how much they have put into the project.
 
 <a id="ceikry"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/ceikry.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/ceikry.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **Ceikry**
 
-&nbsp; Ceikry is the lead developer and Admin of 2009scape.
+&nbsp; Ceikry is the lead developer and Admin of MZscape.
 He has been around since late 2019 and has put well over 3000 hours into this project over the span of 2 years.
 At one point this was a full 8-12 hour day job until he took a break and came back in early 2022 after a month cool down.
 He is no longer sysadmin for his own mental health but still respected as the top.
@@ -47,7 +47,7 @@ He has put the most work into the project.
 <a id="ryan"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/ryan.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/ryan.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
@@ -60,13 +60,13 @@ If you have any concerns with player files he would be the one to go to.
 
 <a id="woah"></a>
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/woah.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/woah.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **woah**
 
-&nbsp; Up until April of 2022, Woah has been the host of 2009scape behind the scenes.
+&nbsp; Up until April of 2022, Woah has been the host of MZscape behind the scenes.
 He was running the magic behind his home server until he could no longer host.
 One of the most respected members and high ranking players as of 2022 and continues to work behind the scenes.
 He is a client developer and the official cache editor.
@@ -83,7 +83,7 @@ See the [Tributes](/site/community/contributors) page for the list of all develo
 <a id="downthecrop"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/downthecrop.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/downthecrop.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
@@ -99,11 +99,11 @@ Make sure to tell him hi, he's super nice!
 <a id="pazaz"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/pazaz.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/pazaz.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
-&nbsp; Pazaz is a client engineer who provided the RT4 client currently used by 2009scape.
+&nbsp; Pazaz is a client engineer who provided the RT4 client currently used by MZscape.
 He is also the founder of 2004scape, and to this day runs Windows 98 on bare metal hardware.
 
 ---
@@ -115,13 +115,13 @@ To ensure the community stays welcoming to all, and to ensure users needing supp
 <a id="leclerc"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/leclerc.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/leclerc.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **Leclerc**
   
-&nbsp; Leclerc is the discord & moderator of 2009scape.
+&nbsp; Leclerc is the discord & moderator of MZscape.
 He came over from OpenRSC to play some good 'ol RS2.
 He is super friendly and is willing to go the extra mile to help you out.
 If you need any help ingame like advice or what is what he is the one to go talk to.
@@ -135,7 +135,7 @@ Retired staff who held key positions and left on good terms
 <a id="sparrow"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/sparrow.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/sparrow.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
@@ -148,7 +148,7 @@ If you would like to say hi he wouldn't mind.
 <a id="dan"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/dan.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/dan.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
@@ -160,13 +160,13 @@ He has his own project OpenNXT, but mainly works on his Minecraft server that he
 <a id="bracket"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/bracket.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/bracket.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **Bracket**
 
-&nbsp; Red Bracket is the founder of 2009scape.
+&nbsp; Red Bracket is the founder of MZscape.
 He is officially retired and the community is led by the group of admins underneath.
 Unlike Jagex with Andrew Gower, Bracket is always welcome in the community and isn't casted out.
 He did his part and now he has chosen to work on his own projects moving forward.
@@ -174,13 +174,13 @@ He did his part and now he has chosen to work on his own projects moving forward
 <a id="kermit"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/kermit.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/kermit.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **Kermit**
 
-&nbsp; Kermit is the Event Planner for 2009scape.
+&nbsp; Kermit is the Event Planner for MZscape.
 As of April 2022, he became the new volunteer host which alone is an amazing thing to contribute.
 But he's not known for his hoppin parties or hosting.
 He is known for his bots.
@@ -192,14 +192,14 @@ Make sure you say hi from time to time, he is super friendly!
 <a id="vddcore"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/vddCore.webp"
+  url="/site/MZscape-resources/img/game_guide/staff_images/vddCore.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
 **vddCore**
 
 &nbsp; vddCore is the original Saradomin Launcher developer, and served as a Community Manager from 2021-2022.
-She also hosted the deprecated 2009scape Matrix bridge and spends her free time reverse engineering and writing on her blog.
+She also hosted the deprecated MZscape Matrix bridge and spends her free time reverse engineering and writing on her blog.
 
 ---
 

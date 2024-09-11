@@ -116,6 +116,6 @@ Need more help? Come chat with us!
 <div class="article_theme_1">
   <ul class="further">
     <li><a href="https://discord.gg/43YPGND">Discord</a></li>
-    <li><a href="https://forum.2009scape.org/">Forums</a></li>
+    <li><a href="https://forum.MZscape.org/">Forums</a></li>
   </ul>
 </div>

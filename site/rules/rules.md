@@ -8,7 +8,7 @@ layout: guide
 
 ### 1. Treat everyone in the community with respect.
 
-Disrespecting or harassing anybody in 2009Scape or its respective discord server is not tolerated.
+Disrespecting or harassing anybody in MZscape or its respective discord server is not tolerated.
 You may be kicked or banned.
 
 This especially includes racist or sexist remarks, with a minimum punishment of a 2 week mute, escalating into permanent mutes and bans.
@@ -21,7 +21,7 @@ There are dedicated channels for receiving support in the Discord server.
 
 ### 3. Exploitation of bugs is strictly prohibited.
 
-If you happen to find a bug, report it [here](https://gitlab.com/2009scape/2009scape/-/issues).
+If you happen to find a bug, report it [here](https://gitlab.com/MZscape/MZscape/-/issues).
 Exploitation of bugs will result in account deletion.
 We take this matter very seriously to maintain server integrity and maintain fair play environment.
 
@@ -37,5 +37,5 @@ Do not mention them here.
 Do not recruit.
 Likewise, do not ask for paid services and do not ask to donate; this is a fair and free server.
 
-***Activity in 2009scape is monitored for violations of these rules.***
+***Activity in MZscape is monitored for violations of these rules.***
 ***Severe violations may result in IP ban and account deletion.***

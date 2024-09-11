@@ -11,11 +11,11 @@ layout: guide
 When you pull up the launcher you notice that there are two play buttons.
 One for World 1 and one for World 2.
 We've had our fair share of people come in either wanting completely authentic content or some inauthentic content.
-For awhile with the votes on inauthentic stuff being added to 2009scape were pretty much 100% wanted.
+For awhile with the votes on inauthentic stuff being added to MZscape were pretty much 100% wanted.
 However, in early January of 2021 we did a poll to see if players would like perks to be added to the skill capes.
 This was the first poll where we started to see a lot of people not wanting this but a lot of people did want it.
 So the divide for what was added was starting to become noticeable.
-The main thing about 2009scape was to recreate the version of the game as it was in 2009. 
+The main thing about MZscape was to recreate the version of the game as it was in 2009. 
 
 We ended up doing a poll to see if people wanted to have two separate worlds where players on World 1 would have all authentic content with super minor QoL updates and  a World 2 with the ability to add custom stuff to the server as long as it kept the 2009 charm of the game.
 As you can see it was polled and voted in to have two separate worlds.

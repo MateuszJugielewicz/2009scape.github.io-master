@@ -3,7 +3,7 @@
     "name": "Age of War",
     "image": "./img/ageofwar.avif",
     "swf": "./swfs/ageofwar.swf",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=383-age-of-war",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=383-age-of-war",
     "description": "Battle of the ages!",
     "warn": "Warning: This game is very LOUD",
     "id": "ageofwar",
@@ -15,7 +15,7 @@
     "image": "./img/bloonstd1.avif",
     "swf": "./swfs/bloonstd1.swf",
     "description": "Use monkeys to stop the balloons from escaping!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=384-bloons-tower-defense-1",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=384-bloons-tower-defense-1",
     "id": "bloonstd1",
     "genres": ["puzzle", "strategy"],
     "multiplayer": false
@@ -25,7 +25,7 @@
     "image": "./img/bloonstd2.avif",
     "swf": "./swfs/bloonstd2.swf",
     "description": "Use monkeys to stop the balloons from escaping, version 2!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=391-bloons-tower-defense-2",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=391-bloons-tower-defense-2",
     "id": "bloonstd2",
     "genres": ["puzzle", "strategy"],
     "multiplayer": false
@@ -35,7 +35,7 @@
     "image": "./img/bloonstd3.avif",
     "swf": "./swfs/bloonstd3.swf",
     "description": "Use monkeys to stop the balloons from escaping, version 3!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=436-bloons-tower-defense-3",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=436-bloons-tower-defense-3",
     "id": "bloonstd3",
     "genres": ["puzzle", "strategy"],
     "multiplayer": false
@@ -45,7 +45,7 @@
     "image": "./img/bloonstd4.avif",
     "swf": "./swfs/bloonstd4.swf",
     "description": "Use monkeys to stop the balloons from escaping, version 4!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=489-bloons-td-4",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=489-bloons-td-4",
     "id": "bloonstd4",
     "genres": ["puzzle", "strategy"],
     "multiplayer": false
@@ -55,7 +55,7 @@
     "image": "./img/flashsonic.avif",
     "swf": "./swfs/flashsonic.swf",
     "description": "Run through the levels as Sonic the Hedgehog!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=385-flash-sonic",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=385-flash-sonic",
     "id": "flashsonic",
     "genres": ["action"],
     "multiplayer": false
@@ -65,7 +65,7 @@
     "image": "./img/learntofly2.avif",
     "swf": "./swfs/learntofly2.swf",
     "description": "Help a poor penguin learn to fly!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=437-learn-to-fly-2",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=437-learn-to-fly-2",
     "id": "learntofly2",
     "genres": ["sport"],
     "multiplayer": false
@@ -75,7 +75,7 @@
     "image": "./img/worldshardestgame.avif",
     "swf": "./swfs/worldshardestgame.swf",
     "description": "A game that's actually hard!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=386-world-s-hardest-game",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=386-world-s-hardest-game",
     "id": "worldshardestgame",
     "genres": ["puzzle"],
     "multiplayer": false
@@ -85,7 +85,7 @@
     "image": "./img/kingdomrush.avif",
     "swf": "./swfs/kingdomrush.swf",
     "description": "Defend your kingdom from the evil forces of darkness!",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=490-kingdom-rush",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=490-kingdom-rush",
     "id": "kingdomrush",
     "genres": ["strategy"],
     "multiplayer": false
@@ -95,7 +95,7 @@
     "image": "./img/sinjidshadowofthewarrior.avif",
     "swf": "./swfs/sinjidshadowofthewarrior.swf",
     "description": "Combat Adventure & Role Playing Game",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=474-sinjid-shadow-of-the-warrior",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=474-sinjid-shadow-of-the-warrior",
     "id": "sinjidshadowofthewarrior",
     "genres": ["adventure", "rpg"],
     "multiplayer": false
@@ -105,7 +105,7 @@
     "image": "./img/swordsandsandals2.avif",
     "swf": "./swfs/swordsandsandals2.swf",
     "description": "Gladiator Combat Game",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=491-swords-and-sandals-2",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=491-swords-and-sandals-2",
     "id": "swordsandsandals2",
     "genres": ["strategy"],
     "multiplayer": false
@@ -115,7 +115,7 @@
     "image": "./img/flashtrek.avif",
     "swf": "./swfs/flashtrek.swf",
     "description": "Colonize planets and create an empire",
-    "forum": "https://forum.2009scape.org/viewtopic.php?t=492-flashtrek",
+    "forum": "https://forum.MZscape.org/viewtopic.php?t=492-flashtrek",
     "id": "flashtrek",
     "genres": ["strategy"],
     "multiplayer": false
