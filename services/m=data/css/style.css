@@ -1,0 +1,101 @@
+body {
+    margin: 10px !important;
+}
+
+.stage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 2rem 0;
+    margin: 0 -5%;
+    overflow: hidden;
+}
+
+.quantity {
+    font-size:12px;
+    margin: 0;
+}
+
+.charm-spacer {
+    height:10px;
+    text-align:center;
+    border: none;
+}
+
+.stat-data {
+    background-color: #605443;
+    color: white;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #94866d;
+    background-color: #e2dbc8;
+    padding: 10px !important;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tbody {
+    margin: auto;
+    width: 100%;
+    display: table;
+}
+
+.debug-hide {
+    display: none;
+}
+
+.debug-show {
+    display: block;
+}
+
+.debug-show p {
+    display: block;
+    max-width: 75%;
+    overflow-x: auto;
+}
+
+.always {
+    background-color: #AFEEEE;
+}
+
+.common {
+    background-color: #56E156;
+}
+
+.uncommon {
+    background-color: #FFED4C;
+}
+
+.rare {
+    background-color: #FF863C;
+}
+
+.veryrare {
+    background-color: #FF6262;
+}
+
+.hover-link img {
+    margin-top: 0px !important;
+    padding-left: 10px;
+    display: "inline";
+}
+
+#app {
+    padding: 40px;
+}
+
+.npcIds {
+    display: block;
+    max-width: 75%;
+    overflow-x: auto;
+}
+
+.centered {
+    text-align: center;
+}
